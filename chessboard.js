@@ -1,4 +1,4 @@
-var size = 100;
+var size = 8;
 var myString = "";
 var x = 1;
 var y = 1;
